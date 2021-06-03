@@ -11,8 +11,5 @@ learn how to make a repository
 
 GIT IS VERY USEFUL
 
-<<<<<<< HEAD
 EDIT 2
-=======
 EDIT 1
->>>>>>> 8c3d3ed12a2ed355128f08f68e00c72e2069e718
