@@ -1,0 +1,12 @@
+add github username to revature pro
+
+git and github are 2 different things
+
+git is the software
+github is the cloud storage for git
+
+dont have to set up ssh
+
+learn how to make a repository
+
+GIT IS VERY USEFUL
