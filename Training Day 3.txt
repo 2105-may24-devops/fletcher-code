@@ -10,3 +10,5 @@ dont have to set up ssh
 learn how to make a repository
 
 GIT IS VERY USEFUL
+
+EDIT 1
